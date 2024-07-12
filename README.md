@@ -1,4 +1,5 @@
-# ReBattles2 Services
-Here's placed the most important files to make game work well
+### ReBattles2 Services
 
-*You may not be interested in them*
+Below are the most important files to ensure the game works well.
+
+*You may not be interested in them.*
